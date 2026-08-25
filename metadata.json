@@ -1,0 +1,6 @@
+{
+  "name": "GramSewa",
+  "description": "AI-Powered Rural Problem Reporting & Governance Platform with multilingual voice-to-text, automated AI triage, SLA tracking, GIS problem map, and citizen resolution verification.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
